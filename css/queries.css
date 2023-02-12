@@ -122,6 +122,10 @@
   }
 }
 
+/**************************/
+/* ESSENTIAL (PHONE) */
+/**************************/
+
 @media (max-width: 40em) {
   html {
     /* 5px / 16px  */
@@ -297,7 +301,7 @@
     align-items: center;
 
     position: absolute;
-    left: 8%;
+    left: 7%;
     bottom: -13%;
 
     box-shadow: 0 0 4rem rgba(0, 0, 0, 0.144);
@@ -342,6 +346,10 @@
     fill: #fff;
   }
 }
+
+/**************************/
+/* ESSENTIAL (PHONE) */
+/**************************/
 
 @media (max-width: 375) {
   html {
